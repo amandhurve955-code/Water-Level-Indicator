@@ -5,7 +5,8 @@ An Arduino Uno reads conductive water probes to track tank levels in real time. 
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CITS6427  
 **Domain:** EMBEDDED SYSTEM  
-**No. of Weeks:** 6 WEEKS  
+**No. of Weeks:** 6 WEEKS
+**Internship Period:** 4 July 2026 - 15 August 2026
 
 ## Overview
 The **Water Level Indicator** is an embedded system project designed to measure and monitor liquid levels in tanks or reservoirs in real-time. The system detects liquid height using conductive probes and provides live visual and audible status feedback via color-coded LEDs, a 16x2 LCD screen, and a piezo buzzer.
