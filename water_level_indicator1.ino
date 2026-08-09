@@ -1,6 +1,12 @@
-// C++ code
-//
+/*
+  Project: Water Level Indicator
+  Description: Monitors water depth in a tank using multiple sensor probes/levels
+               and displays real-time status using LEDs and a 16x2 LCD screen 
+               with an optional alarm buzzer using an Arduino Uno.
 
+  Domain: Embedded Systems
+  Date: 09/08/2026
+*/
 int LevelSensorVal = 0;
 
 int echoPin = 0;
