@@ -34,7 +34,6 @@ The **Water Level Indicator** is an embedded system project designed to measure 
 * **Embedded C++ / Arduino Language**
 * **Arduino IDE** (Firmware Compilation & Uploading)
 * **Tinkercad Circuits / Proteus** (Circuit Simulation Platform)
-* **LiquidCrystal Library**
 
 ## Working Principle
 1. **Conduction Sensing:** A common 5V wire at the bottom of the tank supplies voltage. As water rises, it connects to level-specific probes via conduction.
