@@ -5,7 +5,7 @@ An Arduino Uno reads conductive water probes to track tank levels in real time. 
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CITS6427  
 **Domain:** EMBEDDED SYSTEM  
-**No. of Weeks:** 6 WEEKS
+**No. of Weeks:** 6 WEEKS   
 **Internship Period:** 4 July 2026 - 15 August 2026
 
 ## Overview
