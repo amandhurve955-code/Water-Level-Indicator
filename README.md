@@ -18,7 +18,7 @@ The **Water Level Indicator** is an embedded system project designed to measure 
 * **Dual Visual Output:** Color-coded LEDs (Red, Yellow, Green) and live status updates on a 16x2 LCD.
 * **Audio Overflow Alert:** Integrated piezo buzzer alarm triggered when the tank reaches full capacity.
 * **Low-Power & Efficient:** Simple digital pin reading logic for minimal energy consumption.
-* 
+  
 ## Components Used
 * **Arduino Uno R3** (Microcontroller Board)
 * **Conductive Water Probes / Sensor Wires**
